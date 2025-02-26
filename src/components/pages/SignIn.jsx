@@ -14,7 +14,7 @@ function SignIn() {
         </form>
         <div className="mt-4 text-center">
           <p className="text-gray-500">Don't have an account?</p>
-          <Link to="/signup" className="text-purple-600 font-semibold">
+          <Link to="/SignUp" className="text-purple-600 font-semibold">
             Sign Up
           </Link>
         </div>
